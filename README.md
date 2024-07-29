@@ -28,26 +28,26 @@ Oxygen Saturation Sensor (e.g., MAX30100): Measures blood oxygen levels.
 
 Functionality:-
 
-Data Collection:
+1.Data Collection:
 
 Temperature Sensor: Measures body temperature and sends the data to the Arduino.
 Heart Rate Sensor: Detects the pulse and sends heart rate data to the Arduino.
 Blood Pressure Sensor: Measures systolic and diastolic pressure and sends the data to the Arduino.
 Oxygen Saturation Sensor: Measures the oxygen level in the blood and sends the data to the Arduino.
 
-Data Processing:
+2.Data Processing:
 
 The Arduino processes the data received from all the sensors.
 It formats the data for transmission.
 
-Data Transmission:
+3.Data Transmission:
 
 The Wi-Fi module sends the processed data to an IoT platform like ThingSpeak.
 
-Data Visualization:
+4.Data Visualization:
 
 The IoT platform displays the data in real-time.
 Users can access this data remotely through a web interface or a mobile app.
 
-Tinkercad: Used for designing and simulating the circuit before actual implementation.
+{Tinkercad: Used for designing and simulating the circuit before actual implementation}
 
