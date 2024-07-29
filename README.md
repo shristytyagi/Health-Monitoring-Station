@@ -5,5 +5,5 @@ Domain: INTERNET OF THINGS
 Duration: July to August 2024
 
 -------Overview of the Project------
-HEALTH MONITORING WEARABLE DEVICE
+Project:HEALTH MONITORING WEARABLE DEVICE
 
