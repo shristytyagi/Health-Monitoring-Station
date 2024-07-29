@@ -8,3 +8,7 @@ Duration: July to August 2024
 
 Project: HEALTH MONITORING WEARABLE DEVICE
 
+Description: Creating a health monitoring station using IoT devices like Arduino and sensors is a fascinating project that can provide real-time health data. 
+
+
+
